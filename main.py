@@ -7,7 +7,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, filters , Appl
 load_dotenv()
 
 username:final = os.getenv('USERNAME')
-token:final = os.getenv('TOKEN')
+token:final = '6768326497:AAFzUJWdGpzs08502OprpIuRmEymhni_zDE'
 
 # Commands
 
